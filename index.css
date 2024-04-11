@@ -11,3 +11,52 @@
 ul {
   list-style: none;
 }
+
+#user-list {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#user-list h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+#user-list img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+#user-list a {
+  display: block;
+  margin-top: 10px;
+}
+
+#repos-list {
+  margin-top: 20px;
+}
+
+#repos-list h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#repos-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#repos-list li {
+  margin-bottom: 5px;
+}
+
+#repos-list a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+#avatar {
+  cursor: pointer;
+}
